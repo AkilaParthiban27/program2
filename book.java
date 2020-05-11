@@ -57,7 +57,7 @@ System.out.println("Price of Book : "+bk.rate);
 	    
 		Book b = new Book();
 		
-		b.Main();
+		b.Book();
 		
 		Book a = new Book();
 		
